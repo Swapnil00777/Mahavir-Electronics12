@@ -1,0 +1,11 @@
+# robots.txt for Mahavir Electronics and Furniture
+# ✏️ Replace domain with your actual domain
+
+User-agent: *
+Allow: /
+
+# Block any admin or private directories (add as needed)
+# Disallow: /admin/
+# Disallow: /private/
+
+Sitemap: https://www.mahavirelectronics.in/sitemap.xml

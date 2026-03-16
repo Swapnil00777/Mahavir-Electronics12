@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ElectronicsStore",
+  "name": "Mahavir Electronics and Furniture",
+  "alternateName": "Mahavir Electronics",
+  "description": "Muktainagar's trusted local store for electronics, home appliances and furniture. We offer TVs, ACs, refrigerators, washing machines, sofas, beds and more.",
+  "url": "https://www.mahavirelectronics.in/",
+  "telephone": "+918432732489",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Beside OF BOROLE AGENSIES, near by JDDC BANK",
+    "addressLocality": "Muktainagar",
+    "addressRegion": "Maharashtra",
+    "postalCode": "425306",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "21.034",
+    "longitude": "75.661"
+  },
+  "sameAs": [
+    "https://share.google/oHCLfCpDpCo4CipkD"
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "09:30",
+      "closes": "21:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "10:00",
+      "closes": "14:00"
+    }
+  ],
+  "priceRange": "₹₹",
+  "currenciesAccepted": "INR",
+  "paymentAccepted": "Cash, UPI, Credit Card, Debit Card, Bank Transfer, EMI",
+  "hasMap": "https://maps.google.com/?q=Beside+OF+BOROLE+AGENSIES+near+JDDC+BANK+Muktainagar+Maharashtra+425306",
+  "image": "https://www.mahavirelectronics.in/assets/store-front.jpg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+918432732489",
+    "contactType": "customer service",
+    "availableLanguage": ["English","Marathi","Hindi"]
+  }
+}
